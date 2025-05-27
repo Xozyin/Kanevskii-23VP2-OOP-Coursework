@@ -1,0 +1,179 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\OOP_Curs_Kanevskii_23VP2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6C5A239B-2377-4AB7-8C3B-49DBBBC5CC83}|OOP_Curs_Kanevskii_23VP2\\OOP_Curs_Kanevskii_23VP2.csproj|c:\\users\\user\\source\\repos\\oop_curs_kanevskii_23vp2\\oop_curs_kanevskii_23vp2\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C5A239B-2377-4AB7-8C3B-49DBBBC5CC83}|OOP_Curs_Kanevskii_23VP2\\OOP_Curs_Kanevskii_23VP2.csproj|solutionrelative:oop_curs_kanevskii_23vp2\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C5A239B-2377-4AB7-8C3B-49DBBBC5CC83}|OOP_Curs_Kanevskii_23VP2\\OOP_Curs_Kanevskii_23VP2.csproj|c:\\users\\user\\source\\repos\\oop_curs_kanevskii_23vp2\\oop_curs_kanevskii_23vp2\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C5A239B-2377-4AB7-8C3B-49DBBBC5CC83}|OOP_Curs_Kanevskii_23VP2\\OOP_Curs_Kanevskii_23VP2.csproj|solutionrelative:oop_curs_kanevskii_23vp2\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C5A239B-2377-4AB7-8C3B-49DBBBC5CC83}|OOP_Curs_Kanevskii_23VP2\\OOP_Curs_Kanevskii_23VP2.csproj|c:\\users\\user\\source\\repos\\oop_curs_kanevskii_23vp2\\oop_curs_kanevskii_23vp2\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C5A239B-2377-4AB7-8C3B-49DBBBC5CC83}|OOP_Curs_Kanevskii_23VP2\\OOP_Curs_Kanevskii_23VP2.csproj|solutionrelative:oop_curs_kanevskii_23vp2\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C5A239B-2377-4AB7-8C3B-49DBBBC5CC83}|OOP_Curs_Kanevskii_23VP2\\OOP_Curs_Kanevskii_23VP2.csproj|c:\\users\\user\\source\\repos\\oop_curs_kanevskii_23vp2\\oop_curs_kanevskii_23vp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C5A239B-2377-4AB7-8C3B-49DBBBC5CC83}|OOP_Curs_Kanevskii_23VP2\\OOP_Curs_Kanevskii_23VP2.csproj|solutionrelative:oop_curs_kanevskii_23vp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C5A239B-2377-4AB7-8C3B-49DBBBC5CC83}|OOP_Curs_Kanevskii_23VP2\\OOP_Curs_Kanevskii_23VP2.csproj|C:\\Users\\User\\source\\repos\\OOP_Curs_Kanevskii_23VP2\\oop_curs_kanevskii_23vp2\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6C5A239B-2377-4AB7-8C3B-49DBBBC5CC83}|OOP_Curs_Kanevskii_23VP2\\OOP_Curs_Kanevskii_23VP2.csproj|solutionrelative:oop_curs_kanevskii_23vp2\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C5A239B-2377-4AB7-8C3B-49DBBBC5CC83}|OOP_Curs_Kanevskii_23VP2\\OOP_Curs_Kanevskii_23VP2.csproj|c:\\users\\user\\source\\repos\\oop_curs_kanevskii_23vp2\\oop_curs_kanevskii_23vp2\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C5A239B-2377-4AB7-8C3B-49DBBBC5CC83}|OOP_Curs_Kanevskii_23VP2\\OOP_Curs_Kanevskii_23VP2.csproj|solutionrelative:oop_curs_kanevskii_23vp2\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C5A239B-2377-4AB7-8C3B-49DBBBC5CC83}|OOP_Curs_Kanevskii_23VP2\\OOP_Curs_Kanevskii_23VP2.csproj|c:\\users\\user\\source\\repos\\oop_curs_kanevskii_23vp2\\oop_curs_kanevskii_23vp2\\helloform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C5A239B-2377-4AB7-8C3B-49DBBBC5CC83}|OOP_Curs_Kanevskii_23VP2\\OOP_Curs_Kanevskii_23VP2.csproj|solutionrelative:oop_curs_kanevskii_23vp2\\helloform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C5A239B-2377-4AB7-8C3B-49DBBBC5CC83}|OOP_Curs_Kanevskii_23VP2\\OOP_Curs_Kanevskii_23VP2.csproj|C:\\Users\\User\\source\\repos\\OOP_Curs_Kanevskii_23VP2\\oop_curs_kanevskii_23vp2\\helloform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6C5A239B-2377-4AB7-8C3B-49DBBBC5CC83}|OOP_Curs_Kanevskii_23VP2\\OOP_Curs_Kanevskii_23VP2.csproj|solutionrelative:oop_curs_kanevskii_23vp2\\helloform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C5A239B-2377-4AB7-8C3B-49DBBBC5CC83}|OOP_Curs_Kanevskii_23VP2\\OOP_Curs_Kanevskii_23VP2.csproj|c:\\users\\user\\source\\repos\\oop_curs_kanevskii_23vp2\\oop_curs_kanevskii_23vp2\\helloform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C5A239B-2377-4AB7-8C3B-49DBBBC5CC83}|OOP_Curs_Kanevskii_23VP2\\OOP_Curs_Kanevskii_23VP2.csproj|solutionrelative:oop_curs_kanevskii_23vp2\\helloform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HelloForm.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\OOP_Curs_Kanevskii_23VP2\\OOP_Curs_Kanevskii_23VP2\\HelloForm.cs",
+              "RelativeDocumentMoniker": "OOP_Curs_Kanevskii_23VP2\\HelloForm.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\OOP_Curs_Kanevskii_23VP2\\OOP_Curs_Kanevskii_23VP2\\HelloForm.cs",
+              "RelativeToolTip": "OOP_Curs_Kanevskii_23VP2\\HelloForm.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T15:59:05.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\OOP_Curs_Kanevskii_23VP2\\OOP_Curs_Kanevskii_23VP2\\Product.cs",
+              "RelativeDocumentMoniker": "OOP_Curs_Kanevskii_23VP2\\Product.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\OOP_Curs_Kanevskii_23VP2\\OOP_Curs_Kanevskii_23VP2\\Product.cs",
+              "RelativeToolTip": "OOP_Curs_Kanevskii_23VP2\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T19:08:55.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DatabaseContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\OOP_Curs_Kanevskii_23VP2\\OOP_Curs_Kanevskii_23VP2\\DatabaseContext.cs",
+              "RelativeDocumentMoniker": "OOP_Curs_Kanevskii_23VP2\\DatabaseContext.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\OOP_Curs_Kanevskii_23VP2\\OOP_Curs_Kanevskii_23VP2\\DatabaseContext.cs",
+              "RelativeToolTip": "OOP_Curs_Kanevskii_23VP2\\DatabaseContext.cs",
+              "ViewState": "AgIAAKAAAAAAAAAAAAAwwMkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T19:09:10.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\OOP_Curs_Kanevskii_23VP2\\OOP_Curs_Kanevskii_23VP2\\MainForm.cs",
+              "RelativeDocumentMoniker": "OOP_Curs_Kanevskii_23VP2\\MainForm.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\OOP_Curs_Kanevskii_23VP2\\OOP_Curs_Kanevskii_23VP2\\MainForm.cs",
+              "RelativeToolTip": "OOP_Curs_Kanevskii_23VP2\\MainForm.cs",
+              "ViewState": "AgIAAFIDAAAAAAAAAAAkwF4DAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T21:12:50.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\OOP_Curs_Kanevskii_23VP2\\OOP_Curs_Kanevskii_23VP2\\Program.cs",
+              "RelativeDocumentMoniker": "OOP_Curs_Kanevskii_23VP2\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\OOP_Curs_Kanevskii_23VP2\\OOP_Curs_Kanevskii_23VP2\\Program.cs",
+              "RelativeToolTip": "OOP_Curs_Kanevskii_23VP2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T19:08:42.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\OOP_Curs_Kanevskii_23VP2\\OOP_Curs_Kanevskii_23VP2\\MainForm.Designer.cs",
+              "RelativeDocumentMoniker": "OOP_Curs_Kanevskii_23VP2\\MainForm.Designer.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\OOP_Curs_Kanevskii_23VP2\\OOP_Curs_Kanevskii_23VP2\\MainForm.Designer.cs",
+              "RelativeToolTip": "OOP_Curs_Kanevskii_23VP2\\MainForm.Designer.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAYwFoAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T07:07:51.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HelloForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\OOP_Curs_Kanevskii_23VP2\\OOP_Curs_Kanevskii_23VP2\\HelloForm.Designer.cs",
+              "RelativeDocumentMoniker": "OOP_Curs_Kanevskii_23VP2\\HelloForm.Designer.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\OOP_Curs_Kanevskii_23VP2\\OOP_Curs_Kanevskii_23VP2\\HelloForm.Designer.cs",
+              "RelativeToolTip": "OOP_Curs_Kanevskii_23VP2\\HelloForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T21:12:17.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\OOP_Curs_Kanevskii_23VP2\\OOP_Curs_Kanevskii_23VP2\\MainForm.cs",
+              "RelativeDocumentMoniker": "OOP_Curs_Kanevskii_23VP2\\MainForm.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\OOP_Curs_Kanevskii_23VP2\\OOP_Curs_Kanevskii_23VP2\\MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "RelativeToolTip": "OOP_Curs_Kanevskii_23VP2\\MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T19:08:28.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HelloForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\OOP_Curs_Kanevskii_23VP2\\OOP_Curs_Kanevskii_23VP2\\HelloForm.cs",
+              "RelativeDocumentMoniker": "OOP_Curs_Kanevskii_23VP2\\HelloForm.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\OOP_Curs_Kanevskii_23VP2\\OOP_Curs_Kanevskii_23VP2\\HelloForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "RelativeToolTip": "OOP_Curs_Kanevskii_23VP2\\HelloForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T19:49:10.99Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

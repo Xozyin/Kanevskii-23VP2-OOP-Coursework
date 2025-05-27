@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP_Curs_Kanevskii_23VP2", "OOP_Curs_Kanevskii_23VP2\OOP_Curs_Kanevskii_23VP2.csproj", "{6C5A239B-2377-4AB7-8C3B-49DBBBC5CC83}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "OOO Curs Kanevskii 23VP2 Installer", "OOO Curs Kanevskii 23VP2 Installer\OOO Curs Kanevskii 23VP2 Installer.vdproj", "{E7F951FB-702E-49C1-801E-479F13D41258}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6C5A239B-2377-4AB7-8C3B-49DBBBC5CC83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C5A239B-2377-4AB7-8C3B-49DBBBC5CC83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C5A239B-2377-4AB7-8C3B-49DBBBC5CC83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C5A239B-2377-4AB7-8C3B-49DBBBC5CC83}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7F951FB-702E-49C1-801E-479F13D41258}.Debug|Any CPU.ActiveCfg = Debug
+		{E7F951FB-702E-49C1-801E-479F13D41258}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B852F3B2-0BC6-4C1D-A417-CC58C35C3428}
+	EndGlobalSection
+EndGlobal
